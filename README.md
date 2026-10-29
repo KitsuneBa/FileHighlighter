@@ -1,2 +1,2 @@
-# ImportHighlighter
+# FileHighlighter
 Highlights folders and files.
