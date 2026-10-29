@@ -31,10 +31,7 @@ Full documentation and usage guides:
 Open the repository listing and click "Add to VCC":  
 https://kitsuneba.github.io/KitsuneBaTools/
 
-Or add it via direct link:  
-[Click to Add to VCC](vcc://vpm/addRepo?url=https://kitsuneba.github.io/KitsuneBaTools/index.json)
-
-Manual installation steps:
+Or add it manually:
 1. Open **VRChat Creator Companion**.
 2. Go to **Settings** > **Packages** > **Add Repository**.
 3. Paste the listing URL:
