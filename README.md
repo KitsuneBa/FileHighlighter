@@ -1,2 +1,2 @@
 # FileHighlighter
-Highlights folders and files.
+Automatically highlights imported folders and files and customizes folder colors.
