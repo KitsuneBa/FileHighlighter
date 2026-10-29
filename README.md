@@ -1,2 +1,2 @@
 # ImportHighlighter
-Automatically highlights imported folders and files.
+Highlights folders and files.
